@@ -3,21 +3,21 @@
 > `MoneyFormatter` is a [Flutter](https://flutter.io) package to formatting various types of currencies according to the characteristics you like, without having to be tied to any localization.
 >
 > [![latest version](https://img.shields.io/pub/v/money_formatter.svg?style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfjAg8HMDMbfsHaAAABSUlEQVQY0y2LsUvUYRyHn+/7fe2uVMIz4hcnin+BFCrdZq1BQ1MN4VJxY7MoRLg7OGQ0NPkfiIOYBbYpiUO0VSQ15UFxHHf8fu/7cTif9XkeEz/54TO5qX4xtmJP8mZ8vR+vpt/q4gU3QitP3Iwr9fdhyerhPjZ7cBZH9Rf75ldSp11tXKsnZYHlEDvrt9dO4/dkjwjF6tde43M5GjGBlGoxrNtainGOsef9RqsMIyfUEZg8V1pVslf+crL3dup6EW6ZOMMRGEbmnmqh07bpkLEB89xhgMFQo8dRy4AZMGAe+EINkAEp2B6QhvHw7nOJ+9Fuq2guNsvKDaNiBvGLkUTQuf8Pd3e6U+MLKnGAkmkyf8xN/+zAeuFBKt+FZ6qGmux+tP3xw0TFGz7ZoffRlqQkSSolvRCK8Skmz9lpE3lIl0CiUfUix34BalOOAMgIffsAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTktMDItMTVUMDc6NDg6NTEtMDU6MDCMNC56AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE5LTAyLTE1VDA3OjQ4OjUxLTA1OjAw/WmWxgAAAABJRU5ErkJggg==)](https://pub.dartlang.org/packages/money_formatter)
-> [![last commit](https://img.shields.io/github/last-commit/wiseminds/flutter_money_formatter.svg?logo=github&style=plastic)](https://github.com/wiseminds/flutter_money_formatter) 
+> [![last commit](https://img.shields.io/github/last-commit/wiseminds/money_formatter.svg?logo=github&style=plastic)](https://github.com/wiseminds/money_formatter) 
 
 #### Dependencies :
 [![intl](https://img.shields.io/pub/vpre/intl.svg?label=intl&colorA=gray&colorB=green&style=plastic)](https://pub.dartlang.org/packages/intl)
 
 
 ### Screenshot
-![screenshot](https://github.com/wiseminds/flutter_money_formatter/blob/dev/doc/fmf.gif)
+![screenshot](https://github.com/wiseminds/money_formatter/blob/dev/doc/fmf.gif)
 
 ---
 
 
 ## Install
 
-For complete steps in installing `MoneyFormatter` you can see in the [**Installation Guide**](https://pub.dartlang.org/packages/flutter_money_formatter#-installing-tab-).
+For complete steps in installing `MoneyFormatter` you can see in the [**Installation Guide**](https://pub.dartlang.org/packages/money_formatter#-installing-tab-).
 
 
 ## Usage
@@ -25,7 +25,7 @@ For complete steps in installing `MoneyFormatter` you can see in the [**Installa
 Import the library
 
 ```dart
-import 'package:flutter_money_formatter/flutter_money_formatter.dart';
+import 'package:money_formatter/money_formatter.dart';
 ```
 
 
@@ -248,11 +248,11 @@ print(fmf.copyWith(symbol: 'IDR', symbolAndNumberSeparator: '-').output.symbolOn
 
 ## Demo
 
-For more complete samples, you can grab it from the [example directory](https://github.com/wiseminds/flutter_money_formatter/tree/master/example).
+For more complete samples, you can grab it from the [example directory](https://github.com/wiseminds/money_formatter/tree/master/example).
  
 ## Help Me
 
-If you find some issues or bugs, please [report here.](https://github.com/wiseminds/flutter_money_formatter/issues/new?assignees=&labels=&template=bug_report.md&title=) You can also help in [requesting new features here.](https://github.com/wiseminds/flutter_money_formatter/issues/new?assignees=&labels=&template=feature_request.md&title=)
+If you find some issues or bugs, please [report here.](https://github.com/wiseminds/money_formatter/issues/new?assignees=&labels=&template=bug_report.md&title=) You can also help in [requesting new features here.](https://github.com/wiseminds/money_formatter/issues/new?assignees=&labels=&template=feature_request.md&title=)
 
 ## ChangeLog
 
