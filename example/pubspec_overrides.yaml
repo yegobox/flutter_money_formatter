@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: flutter_money_formatter
+dependency_overrides:
+  flutter_money_formatter:
+    path: ..
